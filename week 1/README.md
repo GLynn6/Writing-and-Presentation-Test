@@ -43,7 +43,51 @@ digunakan untuk rename.</li>
 <li> rm - untuk menghapus file atau directory </li>
 <li> cat - untuk melihat isi sebuah file </li>
 <li> cat - untuk melihat isi sebuah file </li>
- </ul> <br><br>
+ </ul> </ul> 
+
+&nbsp;
 
  # Git & Github
+<ul> <li> Pengertian Git dan Github <br> </li>
+<ul><br><li>Pengertian Git <br>
+Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. </li> </ul>
+
+<ul><br><li>Version Control System (VCS) <br>
+VCS adalah sebuah sistem yang melakukan source code management (SCM) )untuk mengelola perubahan di setiap dokumen, program komputer, website, dan kumpulan pemrograman lainnya. </li> </ul> 
+<ul><br><li>Github<br>
+GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. </li> </ul> </ul>
+
+&nbsp;
+
+- Command Git 
+
+    - Setup Awal <br>
+        Menentukan nama pengguna dan alamat email untuk informasi commit nantinya
+        <img src= "global.png">
+    
+    - git init <br>
+        git init digunakan untuk membuat repository di file
+    
+    - git status <br>
+        git status digunakan untuk mengetahui sebuah status dari sebuah repository lokal
+        <img src="status.png">
+    
+    - git add <br>
+        Perintah yang digunakan untuk menambahkan file baru di repository yang dipilih dengan menggunakan code "git add ." atau  "git add nama file" 
+        <img src="git add.png">
+
+    - git push 
+        git push digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository
+        <img src = "gitpush.png">
+
+
+        
+
+      
+     
+
+
+
+
+
 
