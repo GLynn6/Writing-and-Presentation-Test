@@ -1,4 +1,4 @@
-# Writing Week 1
+# Writing and Presentation Test - Week 1
 ## Unix Command Line
 
 - CLI (Command Line Interface) 
@@ -174,7 +174,7 @@
 
         tampilan pada browser
 
-        <img src = "gambar/p.png">
+        <img src = "gambar/p.PNG">
 
         <br>
     
@@ -186,7 +186,7 @@
 
         tampilan pada browser
 
-        <img src = "gambar/link.PNG" width = "445">
+        <img src = "gambar/link.png" width = "445">
 
         <br>
 
@@ -333,6 +333,7 @@
         ```
 
         tampilan pada browser
+
         <img src= "gambar/external.png">
         
     <br>
