@@ -382,16 +382,15 @@
         ```
     
     - align-content digunakan untuk mensejajarkan garis flex container ketika ada ruang kosong secara garis tegak lurus pada sumbu utama (cross-axis).
-    ```css
-    .container {
-        justify-content: space-arround; /* Pilihan valuenya ada:  flex-start | flex-end | center | space-between | space-arround | baseline */
-    }
+
+        ```css
+        .container {
+        justify-content: space-arround; /* Pilihan  valuenya ada:  flex-start | flex-end | center | space-between | space-arround | baseline */
+        }
+        ```
     
  
         
-
-
-
 &nbsp;
 
 ## Algortima dan Struktur Data
