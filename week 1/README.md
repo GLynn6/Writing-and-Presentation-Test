@@ -154,7 +154,7 @@
 
     Ada beberapa contoh tag sebagai berikut  :
 
-    - Membuat Header
+    - Membuat Heading
 
         ``` html 
         <h1> Hi... I'am Febrianto </h1>
