@@ -340,6 +340,56 @@
 
 - Penggunaan Flexbox
 
+    Flexbox digunakan untuk mengatur elemen di suatu halaman web. Flexbox ini akan mengatur ukuran dari elemen anaknya secara otomatis, dan mampu beradaptasi dengan ukuran container-nya.
+
+- Property Container Flexbox 
+
+    Ada beberapa property Flexbox antara lain sebagai berikut :
+
+    - flex-direction
+
+        Menentukkan arah (direction) yang akan diberlakukan untuk item-item yang ada pada container flexbox.
+
+        ```css
+        .container {
+            flex-direction: column; /* Pilihan valuenya ada:  row | row-reserve | column | column-reserve */
+        }
+        ```
+
+    - flex-wrap
+
+        flex-wrap digunakan untuk mendefinisikan bahwa elemen item di dalam container flexbox tidak harus disejajarkan dalam satu baris.
+        
+        ```css
+        .container {
+            flex-flow: row wrap; /* Penjelasannya:  <flex-direction> spasi <flex-wrap> */
+        }
+        ```
+
+    - justify-content
+
+        justify-content digunakan untuk mensejajarkan item-item diantara flexbox.
+        ```css
+        .container {
+            justify-content: space-arround; /* Pilihan valuenya ada:  flex-start | flex-end | center | space-between | space-arround | baseline */
+        }
+        ```
+    - align-items mendefinisikan bagaimana item-item pada container flex tersebut diletakkan sepanjang garis tegak lurus pada sumbu utama (cross-axis).
+      ```css
+      .container {
+            align-items: flex-end; /* Pilihan valuenya ada:  flex-start | flex-end | center | baseline | stretch*/ 
+        }
+        ```
+    
+    - align-content digunakan untuk mensejajarkan garis flex container ketika ada ruang kosong secara garis tegak lurus pada sumbu utama (cross-axis).
+    ```css
+    .container {
+        justify-content: space-arround; /* Pilihan valuenya ada:  flex-start | flex-end | center | space-between | space-arround | baseline */
+    }
+    
+ 
+        
+
 
 
 &nbsp;
