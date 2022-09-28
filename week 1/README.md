@@ -1,63 +1,76 @@
 # Writing Week 1
 ## Unix Command Line
 
-<ul>
-<li>CLI (Command Line Interface) <br> 
-Adalah baris perintah yang dituliskan oleh user untuk menjalankan suatu instruksi pada sistem operasi yang dilakukan di terminal. CLI merupakan shell yang berbasis teks </li> <br>
+- CLI (Command Line Interface) 
+    
+    Adalah baris perintah yang dituliskan oleh user untuk menjalankan suatu instruksi pada sistem operasi yang dilakukan di terminal. CLI merupakan shell yang berbasis teks 
 
-<li> Shell <br> 
-Shell adalah sebuah program atau penterjemah perintah yang menjembatani user dengan sistem operasi, dimana user dapat mengetikkan perintah-perintah kemudian diteruskan oleh shell lalu di eksekusi oleh system </li> <br>
+- Shell 
 
-<li> Shell <br>
- Selain CLI shell juga ada yang berbasis GUI (Graphical User Interface). Ada beberapa macam GUI & CLI antara lain yaitu : 
- <p><br> Graphical User Interface </p>
- <ul> <li>Windows</li>
- <li>Mac OS</li>
- <li>Ubuntu</li>
-</ul>
-<p> <br> Command Line Interface
- <ul><li>Sh</li>
- <li>Bash</li>
- <li>Cmd.exe</li></ul> </ul> <br>
+    Shell adalah sebuah program atau     penterjemah perintah yang menjembatani user dengan sistem operasi, dimana user dapat mengetikkan perintah-perintah kemudian diteruskan oleh shell lalu di eksekusi oleh system 
 
- <ul> <li>Filesystem <br>
-File System merupakan struktur logika yang digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Contoh dalam Sistem Operasi Windows struktur file yang disimpan menggunakan struktur yang bentuknya mirip sebuah pohon seperti gambar dibawah. <br>
 
-<img src="gambar/tree file sytem.png"> <br> </ul>
+     Selain CLI shell juga ada yang berbasis GUI (Graphical User Interface). Ada beberapa macam GUI & CLI antara lain yaitu :
 
-<ul> <li> Command <br>
-Command untuk melakukan navigasi :
+    Graphical User Interface 
 
-<ul> <br> <li> pwd - mencari path dari direktori (folder) yang digunakan saat ini.</li>
-<li> ls - untuk melihat isi file yang ada di
-sebuah direktori.</li>
-<li> cd <'directory>  - untuk berpindah direktori.</li> </ul> <br>
+    - Windows
+    - Mac OS
+    - Ubuntu
+    
+    &nbsp;
 
-Command untuk memanipulasi file dan direktori :
-<ul> <li> touch - untuk membuat sebuah file </li>
-<li> mkdir - untuk membuat sebuah direktori </li>
-<li> head - untuk melihat beberapa line awal dari sebuah file text </li>
-<li> tail - untuk melihat beberapa line awal dari sebuah file text </li>
-<li> cp - untuk mengcopy files atau directory </li>
-<li> mv - untuk memindahkan files atau directory. Bisa
-digunakan untuk rename.</li>
-<li> rm - untuk menghapus file atau directory </li>
-<li> cat - untuk melihat isi sebuah file </li>
-<li> cat - untuk melihat isi sebuah file </li>
- </ul> </ul> 
+    Command Line Interface
+    - Sh
+    - Bash
+    - Cmd.exe
+
+  &nbsp;
+
+ - Filesystem
+
+    File System merupakan struktur logika yang digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Contoh dalam Sistem Operasi Windows struktur file yang disimpan menggunakan struktur yang bentuknya mirip sebuah pohon seperti gambar dibawah. 
+
+    <img src="gambar/tree file sytem.png"> 
+
+      &nbsp;
+
+- Command 
+    
+    Command untuk melakukan navigasi :
+
+    - pwd - mencari path dari direktori (folder) yang digunakan saat ini.
+    - ls - untuk melihat isi file yang ada disebuah direktori.
+   - cd <..directory..>  - untuk berpindah  direktori.
+
+
+    &nbsp;
+    
+    Command untuk memanipulasi file dan direktori :
+    - touch - untuk membuat sebuah file 
+    - mkdir - untuk membuat sebuah direktori 
+    - head - untuk melihat beberapa line awal dari sebuah file text 
+    - tail - untuk melihat beberapa line awal dari sebuah file text 
+    - cp - untuk mengcopy files atau directory 
+    - mv - untuk memindahkan files atau directory. Bisa digunakan untuk rename.
+    -  rm - untuk menghapus file atau directory 
+    - cat - untuk melihat isi sebuah file 
+    - cat - untuk melihat isi sebuah file 
 
 &nbsp;
 
  ## Git & Github
 
-<ul> <li> Pengertian Git dan Github <br> </li>
-<ul><br><li>Pengertian Git <br>
-Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. </li> </ul>
+- Pengertian Git 
 
-<ul><br><li>Version Control System (VCS) <br>
-VCS adalah sebuah sistem yang melakukan source code management (SCM) )untuk mengelola perubahan di setiap dokumen, program komputer, website, dan kumpulan pemrograman lainnya. </li> </ul> 
-<ul><br><li>Github<br>
-GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. </li> </ul> </ul>
+    Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. 
+
+- Version Control System (VCS) 
+
+    VCS adalah sebuah sistem yang melakukan source code management (SCM) )untuk mengelola perubahan di setiap dokumen, program komputer, website, dan kumpulan pemrograman lainnya. 
+- Github
+
+    GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. 
 
 &nbsp;
 
@@ -149,7 +162,7 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
 
         hasil pada browser
 
-         <img src = "gambar/h.PNG">
+         <img src = "gambar/h.png">
 
         <br>
     
@@ -161,7 +174,7 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
 
         tampilan pada browser
 
-        <img src = "gambar/p.PNG">
+        <img src = "gambar/p.png">
 
         <br>
     
@@ -217,6 +230,11 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
     - width yang berfungsi untuk menentukan lebar dari element gambar, dan diberikan value (nilai) lebar sebesar 80%
     -   src yang berfungsi untuk menentukan sumber gambar, dan diberikan value (nilai) untuk diarahkan ke tautan.
 
+<br>
+
+- Semantic HTML
+
+    HTML semantik adalah penggunaan markup HTML untuk memperkuat semantik, atau makna, dari informasi dalam halaman web dan aplikasi web bukan hanya untuk menentukan presentasi atau melihat.
 
 &nbsp;
 
@@ -254,7 +272,7 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
 
     <br>
 
-    - internal CSS
+    - Internal CSS
 
         Internal CSS menggunakan element (<..style..>) untuk menyisipkan kode CSS. Element (<..style..>) tersebut diletakkan di dalam element (<..head..>).
 
@@ -281,6 +299,411 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
         tampilan pada browser
 
         <img src = "gambar/internal.png">
+
+        <br>
+
+    - External CSS
+
+        External CSS adalah sebuah file CSS terpisah yang disambungkan dengan file HTML dengan menggunakan element (<..link..>).
+
+        ``` html
+        <!-- file index.html -->
+
+        <html lang="en">
+            <head>
+                <title>Document</title>
+                <<link rel="stylesheet" href="style.css" />
+            </head>
+            <body>
+                <h3> Penggunaan external CSS </h3>
+            </body>
+        </html>
+        ```
+        ```css
+        /* file syless.html */
+
+        body   {
+                background-color: bisque;
+        }
+
+        h3 {
+            background-color: darkcyan;
+
+        }
+        ```
+
+        tampilan pada browser
+        <img src= "gambar/external.png">
+        
+    <br>
+
+- Penggunaan Flexbox
+
+
+
+&nbsp;
+
+## Algortima dan Struktur Data
+
+-  Apa itu Algortima
+
+    Algoritma adalah metode atau langkah yang direncanakan secara tersusun dan berurutan untuk menyelesaikan atau memecahkan permasalahan dengan sebuah intruksi.
+
+<br>
+
+- Pentingnya Algoritma
+
+    Pentingnya algoritma disini adalah agar pengerjaan suatu program dapat dilakukan dengan runtut dan rapi. Bisa saat kita membuat program terlebih dahulu tapi hal tersebut dapat dipastikan, dalam pengerjaannya, akan tersendat-sendat. Hal itu dikarenakan dalam proses pembuatan program, seorang programmer akan membayangkan / menghayal bagaimana aplikasi yang dibuat nantinya.
+
+<br>
+
+- Ciri - Ciri Algoritma
+
+    Algoritma pemrograman mempunyai ciri tersendiri yang dapat membedakannya dengan teknik pemrograman  berikut di antaranya sebagai berikut :
+
+    - Input (Masukan) -  memiliki  nol atau lebih masukan (input).
+    - Output (Keluaran) - mempunyai minimal satu keluaran (output).
+    - Definiteness (Kepastian) - harus jelas dan sesuai dengan tujuan.
+    - Finiteness (Keterbatasan) - harus berakhir setelah mengerjakan sejumlah langkah proses.
+    - Effectiveness (Keefektivitasan) - tepat sasaran dan efisien.
+
+<br>
+
+- Penyajian Algoritma
+
+    Algoritma dapat ditulis dengan berbagai cara antara lain yaitu Deskriptif, Flow Chart dan Pseudo Code.
+
+    - Algoritma Deskriptif 
+
+        Penulisan algoritma dengan cara deskriptif seperti menulis tutorial (tata cara) dengan bahasa sehari-hari. Contoh Algoritma dalam luas persegi panjang :
+
+        - Masukan lebar dan panjang persegi panjang.
+        - Lakukan operasi perkalian antara panjang dan lebar persegi panjang.
+        - Hasil perkalian merupakan luas dari persegi panjang.
+        - Tampilkan luas persegi panjang.
+
+    <br>
+
+    - Algoritma Flow Chart
+
+        Flowchart atau bagan alur adalah diagram yang menampilkan langkah-langkah dan keputusan untuk melakukan sebuah proses dari suatu program. Setiap langkah digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau arah panah.
+
+        ![](gambar/flow.png)
+
+        <br>
+
+    - Algoritma Peseudo Code
+
+        Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
+
+       Ada beberapa panduan dalam menulis pseudocode antara lain sebagai berikut : 
+       
+        - Menggunakan HURUF BESAR pada kata kunci (key commands).
+        - 1 statement =  1 baris 
+        - Menggunakan indentasi 
+        - Please please be specific
+        - Tetap simpel
+
+        <br>
+
+        Contoh Pseudo code
+        ```md
+        PROGRAM HitungLuasPersegiPanjang
+
+        DEKLARASI
+
+        let panjang,lebar;luas:integer;
+
+        ALGORITMA
+
+        read (panjang) ;
+
+        read (lebar) ;
+
+        luas<-- panjang * lebar;
+
+        write (luas) ;
+    
+    <br>
+
+    - Pseudocode berdasarkan kondisi masalah
+
+        - Procedural
+
+            Procedural adalah cara berpikir secara runtun. Artinya serangkaian perintah yang berurutan.
+
+            ```md
+            PROGRAM HitungLuasPersegiPanjang
+            DEKLARASI
+            let panjang,lebar;luas:integer;
+            ALGORITMA
+            read (panjang) ;
+            read (lebar) ;
+            luas<-- panjang * lebar;
+            write (luas) ;
+            ```
+
+        <br>
+
+        - Conditional
+
+            Conditional digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan suatu tindakan jika suatu kondisi terpenuhi. 
+            ```md
+            READ bilangan
+            IF(bilanagan modulus 2 = 0) THEN
+                DISPLAY "genap"
+            ELSE
+                DISPLAY "ganjil"
+            ENDIF
+            ```
+        
+        <br>
+
+        - Looping
+
+            Komputer dapat melakukan sebuah proses yang sama berulang-ulang. Jika membutuhkan perulangan dalam kasus tertentu, kita bisa menggunakan Looping.
+
+            ```md
+            Menampilkan angka dari 5 hingga 1
+            Deklarasi
+            hitung = integer
+            BEGIN
+                FOR (hitung ← 5 ; hitung > 0 ; bilangan-- )
+                DISPLAY ('hitung')         
+            ENDFOR
+            END
+            ```
+
+            <br>
+
+    - Big O Notation
+
+        Big O adalah sebuah metrik yang digunakan untuk mengukur kompleksitas suatu algoritma. Kompleksitas dalam konteks ini berkaitan dengan efisiensi kode. Semakin rendah kompleksitasnya, semakin efisien pula kode tersebut.
+
+&nbsp;
+
+# Intro JavaScript
+
+- Apa itu JavaScript
+
+    Javascript adalah bahasa pemograman yang sangat powerful yang digunakan untuk logic pada sebuah website.
+
+<br>
+
+- Penggunaan JavaScript
+
+    Ada dua cara penggunaan JavaScript, antara lain sebagai berikut :
+
+    -  Internal JavaScript, yaitu menyisipkan kode JavaScript langsung di dalam file HTML.
+    
+        ```html
+        <!-- <script> tag di dalam <head> -->
+        <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>Document</title>
+                <script> console.log("Penggunaan intrenal JS"); // output : Penggunaan intrenal JS 
+                </script>
+            </head>
+            <body>
+                
+            </body>
+        </html>
+        ```
+    - External JavaScript, yaitu membuat file JavaScript sendiri dan menyambungkannya dengan file HTML.
+
+        ```html
+        <!-- file index.html -->
+        <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>Document</title>
+                <script defer src="script.js"></script>
+            </head>
+            <body>
+                
+            </body>
+        </html>
+        ```
+        ```js
+        // file script.js
+
+        console.log("Penggunaan intrenal JS"); // output : Penggunaan intrenal JS
+        ```
+        Console log adalah tempat kita untuk cek logic pemograman web yang kita kembangkan
+
+    <br>
+
+- Syntax dan Statment JavaScript
+
+    Syntax bisa dianalogikan seperti kosa kata (vocabulary) dan tata cara (grammar) pada bahasa pemograman. Kita menggunakan syntax tertentu untuk membuat statement program, instruksi untuk djalankan/dieksekusi oleh web browser, compiler, ataupun intrepreter
+
+    Contoh Syntax Javascript
+
+    -  Alert() - menampikan window dialog
+    -  Prompt() - mengambil sebuah inputan dari pengguna pada dialog
+    - Confirm() - melakukan konfirmasi dalam melakukan tindakan tertentu.
+    
+<br>
+
+- Tipe Data (Data Types)
+
+     Tipe data ialah klasifikasi data yang mengenalkan kompilator atau penerjemah bagaimana programmer bermaksud untuk menggunakan data.
+
+     Ada 6 tipe data fundamental pada Javascript
+
+    - number -> Tipe data yang mengandung semua angka termasuk angka desimal.
+        ```js
+        let number = 10;
+        let number = 10.1;
+        ```
+    - string -> Menyimpan barisan karakter
+        ```js
+        let string = "Contoh string"
+        let str = 'Contoh string'
+        ```
+    - boolean -> Mempunyai 2 buah nilai, TRUE (benar) or FALSE (salah).
+        ```js
+        let benar = true;
+        let salah = false;
+        ```
+    - null -> sebuah variable/data tidak memiliki nilai.
+        ```js
+        let nama = null;
+        let alamat= "";
+        ```
+    - undefined -> Undefined berbeda dengan null.
+        ```js
+        let nama = 'febrianto';
+        let umur = 19;
+
+        console.log(alamat) //output Undefined
+        ```
+    - object - koleksi data yang saling berhubungan (related).
+        ```js
+        let data= {
+            nama : "febrianto",
+            umur : 19
+        }
+        ```
+
+
+ &nbsp;
+
+ ## JS - Conditional & Looping
+
+- Apa itu JS Conditional
+
+    Conditional merupakan statement percabangan yang menggambarkan suatu kondisi. Conditional statement akan mengecek kondisi spesifik dan menjalankan perintah berdasarkan kondisi tersebut
+
+- Penggunaan JavaScript Condisitional
+
+    Ada beberapa macam pengguana conditioan pada js antara lain sebagai berikut : 
+
+    - IF Statement
+
+         If statement akan mengeksekusi pernyataan atau blok kode jika suatu kondisi terpenuhi.
+         ```js
+        if (true) {
+                console.log("maka kode akan dijalankan")
+        }
+         ```
+    
+    - IF Else Statment
+
+        Else akan mengeksekusi sebuah statement/code jika suatu kondisi bernilai FALSE
+
+        ```js
+        let lelah = false
+
+        if (lelah) {
+            console.log("maka istirahat") // tidak akan menampilkan statement ini
+        } else {
+            console.log("bisa melanjutkan aktivitas") // akan menampilkan statement ini
+        }
+
+    - IF Else IF Statment
+    
+    If else if statement pada Bahasa JavaScript adalah bentuk tingkat tinggi dari if else yang memungkinkan JavaScript membuat keputusan atau pilihan paling benar dari beberapa condition.
+    
+    ```js
+    if (kondisi 1) {
+            Code yang akan dieksekusi jika memenuhi kondisi 1
+        } else if (kondisi 2) {
+            Code yang akan dieksekusi jika memenuhi kondisi 2
+        } else if (kondisi 3) {
+            Code yang akan dieksekusi jika memenuhi kondisi 3
+        } else {
+            Code yang akan dieksekusi jika tidak ada kondisi yang terpenuhi
+        }
+    ```
+
+<br>
+
+- Apa itu JavaScript Looping
+
+    Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
+
+- Jenis - Jenis Looping
+    
+    Ada beberapa jenis loop atau perulang pada javascript yang bisa digunakan tergantung pada kebutuhan data yang ingin kita olah.
+
+    - For Loop
+    
+        FOR LOOP merupakan instruksi pengulangan yang dapat kita berikan pada program yang kita kembangkan.
+        ```js
+        for ([inisialisasi]; [kondisi]; [eksekusi iterasi]) {
+            // blok kode
+         }
+        ```
+        - Inisialisasi adalah saat pertama kali kita mendeklarasi sebuah nilai awal, dimana nilai awal akan berubah selama belum memenuhi syarat kondisi.
+        - Kondisi berfungsi untuk mengecek perubahan yang terjadi setiap kali terjadi eksekusi iterasi perulangan dengan menggunakan operator perbandingan.
+        - Eksekusi Iterasi proses akhir setiap kali terjadi eksekusi iterasi, biasanya digunakan untuk proses penambahan (increment) atau pengurangan (decrement).
+    
+    <br>
+
+    - WHILE LOOP
+
+        WHILE LOOP akan menjalankan instruksi pengulangan kondisi bernilai TRUE.
+        ```js
+        let i = 0;
+        while (i < 5) {
+            console.log(" Urutan " + i++ );
+        }
+        ```
+
+
+
+
+
+    
+
+
+        
+    
+ 
+
+
+
+
+
+
+
+
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
 
 
 
