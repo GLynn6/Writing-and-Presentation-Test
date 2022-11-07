@@ -178,7 +178,7 @@
 
          Akan menghasilkan file dengan nama user.js pada folder model yang hasilnya seperti berikut.
 
-         ![](./img/hasilmodel)
+         <img src="./img/hasilmodel" width="350"/>
 
     -   Migrate Model
 
@@ -186,7 +186,8 @@
 
             $ npx sequelize-cli db:migrate
 
-        ![](./img/migration)
+        <img src="./img/migration" width="350"/>
+        
 
         Jika ada yang salah, kita bisa mengembalikan (undo) menggunakan
 
